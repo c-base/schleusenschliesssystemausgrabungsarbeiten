@@ -24,3 +24,12 @@ Ungeklaerte Fragen:
 - Brauchen wir Adapter fuer bestehende Zylindersysteme?
 - Brauchen wir Distanzplatten?
 - Brauchen wir Bohrlehre?
+
+Preis
+-
+Bisher nicht ganz klar. Im oberen dreistelligen Bereich.
+
+Weiteres
+-
+- [ ] Keyboard von cyrion
+- [ ] Elektronik von john
